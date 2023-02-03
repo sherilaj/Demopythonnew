@@ -1,0 +1,14 @@
+body{
+background-color:LightGray;
+}
+.banner{
+background-color:Plum;
+width:100%;
+height:100%;
+margin-bottom:70px;
+
+}
+.banner-text{
+text-align:center;
+}
+
